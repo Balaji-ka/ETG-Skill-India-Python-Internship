@@ -7,4 +7,4 @@ In this project we want to build a simple inventory management system from the j
 ### (5) Print Inventory Report
 ### (6) Purchase Item
 ### (7) Quit
-The user can can be able to add,remove and update an item using first three options.The user can also be able to search an item using product name.The saled products information is provided in "Sales.json" with the quantity of the products saled.
+The user can be able to add,remove and update an item using first three options.The user can also be able to search an item using product name.The saled products information is provided in "Sales.json" with the quantity of the products sold.
